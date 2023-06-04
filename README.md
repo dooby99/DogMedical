@@ -1,12 +1,16 @@
 # DogMedical
 <hr>
-## DATASET - AIHUB : 애완동물피부질환
+## DATASET 
+- AIHUB : 애완동물피부질환
 
-## AImodel - U-Net(python-pytorch)
+## AImodel 
+- U-Net(python-pytorch)
 
-## APP - AndroidStudio(kotlin) : incomplete
+## APP 
+- AndroidStudio(kotlin)
+
 </hr>
 ### Reference :
-[id]: URL "https://github.com/PINTO0309/onnx2tf"
--https://github.com/PINTO0309/onnx2tf
+
+<>-https://github.com/PINTO0309/onnx2tf<br/>
 -https://github.com/milesial/Pytorch-UNet
