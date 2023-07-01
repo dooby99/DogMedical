@@ -158,12 +158,6 @@ class ImageSegmentation(context: Context) {
         return outputBitmap
     }
 
-
-//    fun segmentImage(imageBitmap: Bitmap): Bitmap {
-//        val inputBitmap = preprocessImage(imageBitmap)
-//        return runInference(inputBitmap)
-//    }
-
     fun segmentImage(imageBitmap: Bitmap): Bitmap {
         val inputBitmap = preprocessImage(imageBitmap)
         val outputBitmap = runInference(inputBitmap)
