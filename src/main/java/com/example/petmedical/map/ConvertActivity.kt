@@ -34,7 +34,7 @@ class ConvertActivity : AppCompatActivity(), View.OnClickListener, CurrentLocati
     private var mapView: MapView? = null
     private var mapViewContainer: ViewGroup? = null
     private val BASE_URL = "https://dapi.kakao.com/"
-    private val API_KEY = "KakaoAK 58d18bfcce74238262ec0874598d74e1"
+    private val API_KEY = "KakaoAK ***********************"
     private var currentLatitude: Double = 0.0
     private var currentLongitude: Double = 0.0
 
