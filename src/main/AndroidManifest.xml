@@ -111,7 +111,7 @@
 
         <meta-data
             android:name="com.kakao.sdk.AppKey"
-            android:value="7c7fa99fe46eb51cd1238b133fd8f0a1" />
+            android:value="****kakaomap Api key****" />
     </application>
 
 </manifest>
